@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Cyrus Shrestha
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shresthacyrus85@gmail.com
+👋 Hi, I’m Cyrus Shrestha
 
-<!---
-crsstha/crsstha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 A passionate Frontend Developer with nearly 3 years of professional experience
+
+🎯 Specializing in building responsive, user-friendly interfaces with React.js
+
+🚀 Always exploring new technologies to craft intuitive web experiences
+
+🤝 Open to exciting collaborations and innovative projects
+
+🌐 Check out my work: cyrusshrestha.com.np
+
+📫 Reach me at: shresthacyrus85@gmail.com
