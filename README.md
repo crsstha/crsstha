@@ -1,6 +1,6 @@
 👋 Hi, I’m Cyrus Shrestha
 
-💻 A passionate Frontend Developer with nearly 3 years of professional experience
+💻 A passionate Frontend Developer with 4 years of professional experience
 
 🎯 Specializing in building responsive, user-friendly interfaces with React.js
 
